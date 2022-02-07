@@ -1,5 +1,6 @@
 # Redkit-Poll
 ModBus Polling SW in Qt
+
 **Ideas about the software.**
 -Something like Error/fault recording can be make. We can track how many errors occured for long etc...
 -Only errors can be stored in particular page. Or with tree structure all the faulty and good datas can be shown.
