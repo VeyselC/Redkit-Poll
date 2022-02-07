@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/blue.png</file>
+        <file>images/orange.png</file>
+        <file>images/red.png</file>
+        <file>images/yellow.png</file>
+        <file>images/green.png</file>
+        <file>images/Connect.png</file>
+        <file>images/Disconnect.png</file>
+        <file>images/Add file.png</file>
+        <file>images/Delete.png</file>
+        <file>images/Folder.png</file>
+        <file>images/Globe.png</file>
+        <file>images/Html file.png</file>
+        <file>images/Jscript file.png</file>
+        <file>images/Opened folder.png</file>
+        <file>images/Synchronize.png</file>
+        <file>images/connect.ico</file>
+        <file>images/disconnect.ico</file>
+        <file>images/save as.ico</file>
+        <file>images/document empty.ico</file>
+        <file>images/folder.ico</file>
+        <file>images/setting tools.ico</file>
+        <file>images/disk multiple.ico</file>
+        <file>images/disk.ico</file>
+        <file>images/favicon.ico</file>
+        <file>images/graph.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/stop.png</file>
+    </qresource>
+</RCC>
